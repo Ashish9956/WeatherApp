@@ -15,15 +15,15 @@ This Weather App is a simple web application that allows users to check the curr
 
 - React.js
 - Axios (for API requests)
-- HTML, CSS (styled with Tailwind CSS)
+- HTML, CSS 
 
 ## Live Link
 
-[Weather App Live]([https://65c884a4e29cb7f86786acd6--resilient-semolina-0ad4a0.netlify.app/])
+[Weather App Live] (https://65c884a4e29cb7f86786acd6--resilient-semolina-0ad4a0.netlify.app/)
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-
+https://github.com/Ashish9956/WeatherApp.git
