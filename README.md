@@ -26,4 +26,4 @@ This Weather App is a simple web application that allows users to check the curr
 1. Clone the repository:
 
    ```bash
-https://github.com/Ashish9956/WeatherApp.git
+         https://github.com/Ashish9956/WeatherApp.git
